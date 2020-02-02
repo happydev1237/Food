@@ -1,0 +1,74 @@
+{
+    "hotelnames": [
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fchennaikings.us%2Fimages%2Fparotta.png&f=1&nofb=1",
+        "hotel": "Parotta center",
+        "htype": "Varities of parottas",
+        "stars": 4,
+        "Location": "kalavasal, Madurai"
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhhwoodlands.com%2Fimages%2Fhome%2Fslider%2Fimg-2.png&f=1&nofb=1",
+        "hotel": "Anjappar Hotel",
+        "htype": "Tastiest Briyani Available",
+        "stars": 3,
+        "Location": "Thepakulam, Madurai"
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.taalmelbourne.com%2Fupload%2Fcategory%2Fzai0_1471946409_Dosa.png&f=1&nofb=1",
+        "hotel": "Dosa Hut",
+        "htype": "Varities of dosa",
+        "stars": 2,
+        "Location": "Villapuram, Madurai"
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhhwoodlands.com%2Fimages%2Fmenus%2F1quick_bites.png&f=1&nofb=1",
+        "hotel": "Hotel Aryas",
+        "htype": "Vegeterian hotel",
+        "stars": 5,
+        "Location": "Annanagar, Madurai"
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kfc.de%2Ftypo3conf%2Fext%2Fkfc_templates%2FResources%2FPublic%2FFrontend%2Fimg%2Flanding%2Fsmartboxes%2Fbox-2.png&f=1&nofb=1",
+        "hotel": "KFC",
+        "htype": "Tasty fried chickens",
+        "stars": 1,
+        "Location": "Goripalayam, Madurai"
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fchennaikings.us%2Fimages%2Fparotta.png&f=1&nofb=1",
+        "hotel": "Rahman Parottas",
+        "htype": "Tasty varities of parottas",
+        "stars": 5,
+        "Location": "kalavasal, Madurai"
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fchennaikings.us%2Fimages%2Fparotta.png&f=1&nofb=1",
+        "hotel": "Pranav Hotel",
+        "htype": "Tastiest Briyani Available",
+        "stars": 4,
+        "Location": "Thepakulam, Madurai"
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.taalmelbourne.com%2Fupload%2Fcategory%2Fzai0_1471946409_Dosa.png&f=1&nofb=1",
+        "hotel": "Dosa center" ,
+        "htype": "All dosas available",
+        "stars": 5,
+        "Location": "Thepakulam, Madurai"
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fchennaikings.us%2Fimages%2Fparotta.png&f=1&nofb=1",
+        "hotel": "Hotel Pons",
+        "htype": "Vegeterian hotel",
+        "stars": 4,
+        "Location": "Silaiman, Madurai"
+      },
+      {
+        "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fchennaikings.us%2Fimages%2Fparotta.png&f=1&nofb=1",
+        "hotel": "Mary Brown",
+        "htype": "Tasty fried chickens",
+        "stars": 4,
+        "Location": "Goripalayam, Madurai"
+      }
+    ]
+  }
